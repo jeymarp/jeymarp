@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeymarp
 - 👀 I am passionate about computer programming
-- 🌱 I’m currently learning full stack development in C#(MAUI.Net) and Android applications as well
-- 💞️ I’m looking foward to graduate on Fall 2023 from Florida State University and start working as Software Developer 
+- 🌱 I’m currently looking for a software engineering full time job (entry level)
+- 💞️ I just graduated from Florida State University on December 2023 (Computer Science Degree)
 - 📫 How to reach me: jeymarp97@gmail.com 
 
 <!---
